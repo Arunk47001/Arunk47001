@@ -158,17 +158,7 @@ I am a strong fit for opportunities such as:
 - Improving **real-time and large-scale analytics pipelines**
 - Designing **high-performance AWS data platforms**
 - Solving business problems in **IoT, energy, and operational analytics**
-
----
-
-## Why Recruiters and Hiring Managers May Be Interested
-
-- Proven experience in **production data engineering** with measurable impact
-- Strong combination of **data engineering + AI application development**
-- Experience with **modern AWS services** used in enterprise data platforms
-- Ability to work across engineering, analytics, and business-facing use cases
-- Clear focus on building systems that are **scalable, reliable, and cost-aware**
-
+  
 ---
 
 ## Let's Connect
