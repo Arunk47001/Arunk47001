@@ -1,161 +1,181 @@
-# 👋 Hi, I'm Arun Kumar
+# Arun Kumar
 
-🚀 Data Engineer | AI Enthusiast | AWS Specialist
+**Data Engineer | AI Engineer | AWS Data Specialist**
 
-📍 Udupi, Karnataka, India
-📧 [arun.kumar.udupi.07@gmail.com](mailto:arun.kumar.udupi.07@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/arun-kumar-7b75a5178/)
+I build production-grade data platforms and AI-enabled solutions that help organizations turn complex data into reliable business outcomes. My work spans cloud-native data engineering, real-time analytics, large-scale IoT processing, and practical generative AI systems.
 
----
-
-## 💡 About Me
-
-I’m a **Data Engineer with 5+ years of experience** building scalable, secure, and high-performance data platforms on AWS.
-
-I specialize in:
-
-* Designing **cloud-native data pipelines**
-* Processing **large-scale IoT and telemetry data**
-* Building **AI-powered solutions using LLMs**
-* Delivering **cost-optimized and reliable data systems**
-
-I enjoy solving real-world problems using **data, AI, and distributed systems**.
+- **Location:** Udupi, Karnataka, India
+- **Email:** [arun.kumar.udupi.07@gmail.com](mailto:arun.kumar.udupi.07@gmail.com)
+- **LinkedIn:** [linkedin.com/in/arun-kumar-7b75a5178](https://www.linkedin.com/in/arun-kumar-7b75a5178/)
 
 ---
 
-## ⚙️ Tech Stack
+## Professional Summary
 
-### 🧑‍💻 Languages
+Data Engineer with **5+ years of experience** designing, building, and improving scalable data systems on AWS. I specialize in creating secure, high-performance pipelines for analytics, reporting, and AI use cases. My background combines strong engineering fundamentals with business-focused delivery, helping teams improve data reliability, accelerate reporting, and launch modern AI capabilities.
 
-* Python
-* SQL
+### What I bring
 
-### ☁️ Cloud & Data Engineering
-
-* AWS (Glue, Lambda, S3, EMR, Step Functions, Athena, Redshift)
-* Data Pipelines (ETL/ELT)
-* Apache Spark (PySpark)
-
-### 🗄️ Databases
-
-* Amazon Redshift
-* DynamoDB
-* MySQL
-* PostgreSQL
-
-### 🤖 AI & ML
-
-* Amazon Bedrock
-* Azure OpenAI
-* Amazon SageMaker
-
-### 📡 Streaming
-
-* Amazon Kinesis
-* SNS / SQS
-
-### 📊 Visualization
-
-* Power BI
-* Amazon QuickSight
-* Grafana
-
-### 🔧 DevOps
-
-* Terraform
-* Jenkins
-* Git
-* CloudWatch
+- End-to-end ownership of **data pipelines**, from ingestion to transformation and analytics consumption
+- Hands-on experience with **AWS-native architectures** for resilient and cost-effective platforms
+- Strong focus on **performance, observability, and operational excellence**
+- Practical exposure to **LLM and agent-based AI systems** integrated with enterprise workflows
+- Experience working with **IoT, telemetry, API, and reporting data** at scale
 
 ---
 
-## 🏆 Achievements
+## Core Skills
 
-* 🎓 AWS Certified Data Engineer – Associate
-* 🏅 Top 700 finalist (out of 9100) – Agentic AI Cloud Day (Google Cloud)
-* 🎤 Delivered AI sessions during innovation week at Signify
+### Data Engineering
+- ETL / ELT pipeline design
+- Data modeling and transformation
+- Batch and near real-time processing
+- Workflow orchestration
+- Data quality and monitoring
 
----
+### Cloud & Platform
+- AWS Glue
+- AWS Lambda
+- Amazon S3
+- Amazon EMR
+- AWS Step Functions
+- Amazon Athena
+- Amazon Redshift
+- Amazon CloudWatch
 
-## 💼 Professional Experience
+### Programming & Processing
+- Python
+- SQL
+- Apache Spark / PySpark
 
-### 🔹 Data & AI Engineer — Signify (Philips Lighting)
+### Databases & Storage
+- Amazon Redshift
+- DynamoDB
+- MySQL
+- PostgreSQL
+- Amazon Timestream
 
-**Mar 2023 – Present**
+### Streaming & Integration
+- Amazon Kinesis
+- Amazon SNS
+- Amazon SQS
+- REST API integrations
 
-* Built scalable **AWS data pipelines** for IoT energy data
-* Improved pipeline throughput by **25%**
-* Designed **ETL workflows** for APIs, streams, and databases
-* Implemented **Step Functions orchestration** with retry & alerting
-* Developed **Agentic AI assistant** using Bedrock + MCP
+### AI / ML
+- Amazon Bedrock
+- Azure OpenAI
+- Amazon SageMaker
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
 
----
+### Visualization & Delivery
+- Power BI
+- Amazon QuickSight
+- Grafana
 
-### 🔹 Data Analyst — Signify
-
-**Aug 2021 – Mar 2023**
-
-* Built **API analytics pipelines** using Lambda, S3, Athena
-* Identified **critical data issues improving system stability**
-* Reduced manual reporting effort by **40%**
-* Created dashboards using **QuickSight & Power BI**
-
----
-
-## 🚀 Projects
-
-### 🤖 AI-powered Document Assistant
-
-* Built multi-agent workflows using Bedrock AgentCore
-* Integrated RAG + action-based AI system
-* Monitored latency & token usage via CloudWatch
-
----
-
-### 📡 Real-Time Streaming Pipeline
-
-* Used Kinesis + Firehose for real-time ingestion
-* Stored data in **Timestream + S3**
-* Built near real-time dashboards
-
----
-
-### 🌱 AI Agricultural Assistant
-
-* Multi-agent system for:
-
-  * Crop diagnosis
-  * Market insights
-  * ROI estimation
-* Voice-enabled using LLMs
+### DevOps & Automation
+- Terraform
+- Jenkins
+- Git
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-🎓 M.E. in Big Data & Data Analytics
+### Data & AI Engineer — Signify (Philips Lighting)
+**March 2023 – Present**
+
+- Built scalable AWS data pipelines for **IoT and energy data processing**
+- Improved pipeline throughput by **25%** through design and optimization enhancements
+- Designed ETL workflows for **APIs, event streams, and database sources**
+- Implemented orchestration with **AWS Step Functions**, including retry handling and alerting
+- Developed an **agentic AI assistant** using Amazon Bedrock and MCP-based workflows
+- Contributed to more reliable and observable data operations using cloud-native monitoring patterns
+
+### Data Analyst — Signify
+**August 2021 – March 2023**
+
+- Built analytics pipelines using **AWS Lambda, Amazon S3, and Amazon Athena**
+- Identified critical data issues that improved platform stability and reporting trust
+- Reduced manual reporting effort by **40%** through automation and reusable data workflows
+- Created dashboards and reporting solutions using **QuickSight** and **Power BI**
+
+---
+
+## Selected Project Highlights
+
+### AI-Powered Document Assistant
+- Built multi-agent workflows using **Amazon Bedrock AgentCore**
+- Combined **RAG** with action-oriented AI patterns to improve information retrieval and task execution
+- Monitored latency, operational health, and token usage through **CloudWatch**
+
+### Real-Time Streaming Pipeline
+- Designed streaming ingestion using **Amazon Kinesis** and **Firehose**
+- Stored high-volume event data in **Amazon Timestream** and **Amazon S3**
+- Enabled near real-time reporting and operational dashboards
+
+### AI Agricultural Assistant
+- Created a multi-agent assistant for crop diagnosis, market insights, and ROI estimation
+- Extended the experience with voice-enabled interactions powered by LLMs
+- Focused on practical AI usage for real-world decision support
+
+---
+
+## Achievements & Recognition
+
+- **AWS Certified Data Engineer – Associate**
+- **Top 700 finalist** out of 9,100 participants in **Agentic AI Cloud Day (Google Cloud)**
+- Delivered **AI knowledge-sharing sessions** during innovation week at Signify
+
+---
+
+## Education
+
+**M.E. in Big Data & Data Analytics**  
 Manipal Academy of Higher Education
 
-🎓 M.Sc. in Applied Mathematics & Computing
+**M.Sc. in Applied Mathematics & Computing**  
 Manipal Academy of Higher Education
 
 ---
 
-## 📈 What I'm Working On
+## Roles I Am Best Suited For
 
-* 🤖 Agentic AI systems (LLMs + tools)
-* 📊 Real-time analytics pipelines
-* ⚡ High-performance data platforms on AWS
-* 🌞 Solar & IoT data analytics
+I am a strong fit for opportunities such as:
 
----
-
-## 🤝 Let's Connect
-
-If you're interested in collaboration, AI, or data engineering:
-
-👉 Feel free to reach out or explore my repositories!
+- Data Engineer
+- Senior Data Engineer
+- Analytics Engineer
+- AI Engineer
+- Cloud Data Engineer
+- AWS Data Platform Engineer
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my projects!*
+## What I Am Currently Focused On
+
+- Building **agentic AI systems** with tools, orchestration, and enterprise integrations
+- Improving **real-time and large-scale analytics pipelines**
+- Designing **high-performance AWS data platforms**
+- Solving business problems in **IoT, energy, and operational analytics**
+
+---
+
+## Why Recruiters and Hiring Managers May Be Interested
+
+- Proven experience in **production data engineering** with measurable impact
+- Strong combination of **data engineering + AI application development**
+- Experience with **modern AWS services** used in enterprise data platforms
+- Ability to work across engineering, analytics, and business-facing use cases
+- Clear focus on building systems that are **scalable, reliable, and cost-aware**
+
+---
+
+## Let's Connect
+
+If you are hiring for data engineering, AI engineering, or AWS-focused platform roles, I would be happy to connect.
+
+- **Email:** [arun.kumar.udupi.07@gmail.com](mailto:arun.kumar.udupi.07@gmail.com)
+- **LinkedIn:** [Arun Kumar](https://www.linkedin.com/in/arun-kumar-7b75a5178/)
+
+Thanks for visiting my profile.
